@@ -1,6 +1,6 @@
 # VisualizeGraphAlgorithms
 A Java project that I used to help me study various graph traversal algorithms.  Includes DFS, BFS, Bellman Ford's, and more!
-Description: One of the best ways of understanding graph algorithms after learning about them is through a visual walkthrough. Here, we visually implement a variety of graph traversal algorithms that allow for user interactivity as well.  We showcased DFS, BFS, and Dijkstra’s using java to help users have a visual and therefore better understanding of how these graph algorithms work.
+Description: One of the best ways of understanding graph algorithms after learning about them is through a visual walkthrough. Here, a visually implementation a variety of graph traversal algorithms were created that allow for user interactivity as well.  the project showcased DFS, BFS, and Dijkstra’s using java to help users have a visual and therefore better understanding of how these graph algorithms work.
 
 
 * Java Files
